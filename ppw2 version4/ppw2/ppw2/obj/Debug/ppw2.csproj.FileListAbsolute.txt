@@ -1,0 +1,33 @@
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2/ppw2/bin/Debug/ppw2.exe.config
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2/ppw2/bin/Debug/ppw2.exe
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2/ppw2/bin/Debug/ppw2.pdb
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.csprojAssemblyReference.cache
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.Form1.resources
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.Properties.Resources.resources
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.csproj.GenerateResource.cache
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.exe
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.pdb
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.AddRaceForm.resources
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.EditRace.resources
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2 version4/ppw2/ppw2/bin/Debug/ppw2.exe.config
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2 version4/ppw2/ppw2/bin/Debug/ppw2.exe
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2 version4/ppw2/ppw2/bin/Debug/ppw2.pdb
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.csprojAssemblyReference.cache
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.AddRaceForm.resources
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.EditRace.resources
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.Form1.resources
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.Properties.Resources.resources
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.csproj.GenerateResource.cache
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.exe
+C:/Users/david/OneDrive/Ambiente de Trabalho/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.pdb
+/Users/davidbarbosa/Desktop/ppw2 version4/ppw2 version4/ppw2/ppw2/bin/Debug/ppw2.exe.config
+/Users/davidbarbosa/Desktop/ppw2 version4/ppw2 version4/ppw2/ppw2/bin/Debug/ppw2.exe
+/Users/davidbarbosa/Desktop/ppw2 version4/ppw2 version4/ppw2/ppw2/bin/Debug/ppw2.pdb
+/Users/davidbarbosa/Desktop/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.csprojAssemblyReference.cache
+/Users/davidbarbosa/Desktop/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.AddRaceForm.resources
+/Users/davidbarbosa/Desktop/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.EditRace.resources
+/Users/davidbarbosa/Desktop/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.Form1.resources
+/Users/davidbarbosa/Desktop/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.Properties.Resources.resources
+/Users/davidbarbosa/Desktop/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.csproj.GenerateResource.cache
+/Users/davidbarbosa/Desktop/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.exe
+/Users/davidbarbosa/Desktop/ppw2 version4/ppw2 version4/ppw2/ppw2/obj/Debug/ppw2.pdb
